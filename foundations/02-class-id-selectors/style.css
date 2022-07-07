@@ -1,0 +1,26 @@
+.classone {
+    font-size:large;
+    background-color: rgba(255, 0, 0, 40%);
+    color: black;
+    font-family: sans-serif;
+}
+
+#numbertwo {
+    color: blue;
+    font-family: sans-serif;
+    font-size: xx-large;
+
+}
+.coolclass {
+    font-size: 30px;
+    background-color: rgba(255, 0, 0, 40%);
+    font-family: sans-serif;
+}
+
+#numberfour {
+    background-color: rgba(0, 200, 0, 40%);
+    font-weight: bold;
+    font-size: 24px;
+
+
+}
